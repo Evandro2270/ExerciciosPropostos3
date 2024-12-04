@@ -18,9 +18,9 @@ namespace Programa
                 int c = int.Parse(Console.ReadLine());
                 int d = int.Parse(Console.ReadLine());
 
-                int diferencia = a * b - c * d;
+                int diferenca = a * b - c * d;
 
-                Console.WriteLine(diferencia);
+                Console.WriteLine(diferenca);
 
             }
         }
